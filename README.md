@@ -7,9 +7,6 @@ Este repositório contém exemplos e exercícios relacionados ao aprendizado da 
 - **Fundamentos do Java**: Conceitos iniciais e sintaxe básica.
 - **Programas Orientados a Objetos**: Princípios da POO aplicados em Java.
 - **Coleções e Estruturas de Dados**: Utilização das classes de coleção do Java.
-- **Tratamento de Exceções**: Mecanismos de captura e lançamento de exceções.
-- **Manipulação de Arquivos**: Operando arquivos e fluxos de entrada e saída.
-- **Banco de Dados com JDBC**: Conexão e operação com bancos de dados.
 
 ## Tecnologias Utilizadas
 
